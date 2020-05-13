@@ -1,6 +1,6 @@
 # alexa-youtube
 ## Unofficial YouTube skill for Alexa
-__Last update: 15 Dec 2019__
+__Last update: 15 Dec 2019 (I get it works at 13 May 2020)__
 
 
 ## Sponsorship
@@ -14,8 +14,8 @@ __Last update: 15 Dec 2019__
 * Makes a list of all the videos played, in the Alexa app
 
 ## Launching
-* In English, say "Alexa, launch YouTube". 
-* In German, say "Alexa, öffne YouTube". 
+* In English, say "Alexa, launch YouTube".
+* In German, say "Alexa, öffne YouTube".
 * In Italian, say "Alexa, avvia YouTube".
 * In Spanish, say "Alexa, abrir YouTube".
 
@@ -62,12 +62,12 @@ Commands 8, 9, 10 and 11 are only available in English at the moment. Need them 
 16. Click "Invocation" in the menu on the left.
 17. If you want to call the skill anything other than "youtube", change it here. Click "Save Model" if you change anything.
 18. Click "Build Model". This will take a minute, be patient. It should tell you if it succeeded.
-19. **Important:** At the top, click "Test". Where it says "Test is disabled for this skill", change the dropdown from "Off" to "Development". 
+19. **Important:** At the top, click "Test". Where it says "Test is disabled for this skill", change the dropdown from "Off" to "Development".
 
 ## Keeping a list of what you have played
 This skill can make a list of the last 90 videos played, but you have to give it permissions in the Alexa app:
 1. Go to the Alexa app on your phone. In the menu, go to "Skills & Games", then "Your Skills", then scroll to the right and click on "Dev".
-2. Click on your YouTube skill. You should see a button marked "Settings", click that. 
+2. Click on your YouTube skill. You should see a button marked "Settings", click that.
 3. Then press on "Manage Settings", and tick the boxes marked "Lists Read Access" and "Lists Write Access", and press "Save Settings".
 4. Say "Alexa, launch YouTube", that will create the list, and from then on, videos will be added to it.
 The list can be viewed in the Alexa app, click Lists from the main menu.
