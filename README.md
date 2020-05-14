@@ -1,7 +1,7 @@
 # alexa-youtube
 ## Unofficial YouTube skill for Alexa
-__Last update: 15 Dec 2019 (I get it works at 13 May 2020)__
-
+__Last update: 15 Dec 2019 (I get it works at 13 May 2020)__  
+__Important: I installed pytube for python3 so you must use python3.7__
 
 ## Sponsorship
 * First things first, I am asking for **$3/month** to use this skill. You can test it for free, but it will only ever play Gangnam Style.
